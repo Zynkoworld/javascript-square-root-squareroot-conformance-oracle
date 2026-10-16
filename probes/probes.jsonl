@@ -1,0 +1,6 @@
+{"input": 1, "expect": 1, "raised": false, "task": "square-root", "lang": "javascript"}
+{"input": 4, "expect": 2, "raised": false, "task": "square-root", "lang": "javascript"}
+{"input": 25, "expect": 5, "raised": false, "task": "square-root", "lang": "javascript"}
+{"input": 81, "expect": 9, "raised": false, "task": "square-root", "lang": "javascript"}
+{"input": 196, "expect": 14, "raised": false, "task": "square-root", "lang": "javascript"}
+{"input": 65025, "expect": 255, "raised": false, "task": "square-root", "lang": "javascript"}
